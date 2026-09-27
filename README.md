@@ -6,18 +6,18 @@
 * I have experience developing and maintaining **enterprise-grade retail management systems**, working mainly with APIs, relational databases, and backend architecture.
 
 <p align="left"> 
-    <a href="https://github.com/juliaccardozo?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ajuliaccardozo?tab=repositories&sort=stargazers">
         <img 
             alt="GitHub stars" 
             title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/juliaccardozo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/ajuliaccardozo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
-    <a href="https://github.com/juliaccardozo?tab=followers">
+    <a href="https://github.com/ajuliaccardozo?tab=followers">
         <img 
             alt="GitHub followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/juliaccardozo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/ajuliaccardozo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
